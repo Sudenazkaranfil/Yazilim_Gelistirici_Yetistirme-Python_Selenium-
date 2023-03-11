@@ -32,12 +32,15 @@ teachable= "Continue with teachable"
 if(email):
 
 print(email)
+
 elif(google):
 
 print(google)
+
 elif(teachable):
 
 print(teachable)
+
 else:
 
 printf("Hatalı seçim. Tekrar deneyiniz.")
